@@ -1,0 +1,22 @@
+{
+  "name": "travel",
+  "description": "",
+  "main": "",
+  "authors": [
+    "markevich <slava.markevich@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [
+    "es6"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
