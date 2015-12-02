@@ -18,6 +18,8 @@
 // Local files can be imported directly using relative
 // paths "./socket" or full ones "web/static/js/socket".
 
-// import socket from "./socket"
+import socket from "./socket"
 
+olasdasd;
+alert(1);
 import './angular/app'
